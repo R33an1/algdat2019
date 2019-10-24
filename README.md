@@ -1,2 +1,2 @@
-# algdat2019
-Algdat høsten 2019
+# Noen algdat øvinger høsten 2019
+
